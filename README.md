@@ -1,4 +1,4 @@
-Starting files for <insert your name here>'s inclass lab.
+Starting files for "insert your name here"'s inclass lab.
 
 ## README.md
 
